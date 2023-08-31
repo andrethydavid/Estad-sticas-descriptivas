@@ -18,5 +18,5 @@ Estadística inferencial: predecir con datos.
 * Resumir grandes cantidades de información para tomar mejores decisiones.
 * Responder preguntas con relevancia social.
 * Reconocer patrones en los datos.
-
+.
 ![image](https://github.com/andrethydavid/Estad-sticas-descriptivas/assets/72534486/00a019f7-203e-4c22-8c3f-b1b8c89da36e)
